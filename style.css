@@ -28,6 +28,10 @@ body {
     color: #f1f1f1;
 }
 
+.sidenav img{
+    width:100%; 
+}
+
 .content {
     margin-left: 160px; /* Same as the width of the sidenav */
     font-size: 28px; /* Increased text to enable scrolling */
