@@ -1,12 +1,23 @@
 body {
-    font-family: 'Amatic SC', cursive;
-    font-size: 24px;
+    margin-left: 15%; /* Same as the width of the sidenav */
+    font-size: 16px;
+    padding: 0px 10px;
     text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.main {
+    color: darkred;
+}
+
+.content {
+    font-size: 16px; /* Increased text to enable scrolling */
+    text-align: left;
 }
 
 .sidenav {
     height: 100%;
-    width: 160px;
+    width: 15%;
     position: fixed;
     z-index: 1;
     top: 0;
@@ -14,6 +25,7 @@ body {
     background-color: #111;
     overflow-x: hidden;
     padding-top: 20px;
+    text-align: center;
 }
 
 .sidenav a {
@@ -32,11 +44,7 @@ body {
     width:100%; 
 }
 
-.content {
-    margin-left: 160px; /* Same as the width of the sidenav */
-    font-size: 28px; /* Increased text to enable scrolling */
-    padding: 0px 10px;
-}
+
 
 @media screen and (max-height: 450px) {
     .sidenav {padding-top: 15px;}
