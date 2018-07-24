@@ -1,52 +1,32 @@
 body {
-    margin-left: 15%; /* Same as the width of the sidenav */
     font-size: 16px;
-    padding: 0px 10px;
     text-align: center;
     font-family: 'Open Sans', sans-serif;
+    margin: auto;
 }
 
 .main {
-    color: darkred;
+    margin: auto;
+    width: 50%;
+    color: #2d0000;
 }
 
-.content {
-    font-size: 16px; /* Increased text to enable scrolling */
-    text-align: left;
+.logo{
+    width: 32px;
+    padding: 5px;
+    padding-left: 15px;
 }
 
-.sidenav {
-    height: 100%;
-    width: 15%;
-    position: fixed;
-    z-index: 1;
-    top: 0;
-    left: 0;
-    background-color: #111;
-    overflow-x: hidden;
-    padding-top: 20px;
-    text-align: center;
+#header{
+    margin: auto;
+    width: 20%;
 }
 
-.sidenav a {
-    padding: 6px 8px 6px 16px;
-    text-decoration: none;
-    font-size: 25px;
-    color: #818181;
-    display: block;
+.profile{
+    width: 60%;
+    margin: 10px;
+    border-radius: 50%;
 }
-
-.sidenav a:hover {
-    color: #f1f1f1;
-}
-
-.sidenav img{
-    width:100%; 
-}
-
-
-
-@media screen and (max-height: 450px) {
-    .sidenav {padding-top: 15px;}
-    .sidenav a {font-size: 18px;}
+.sociallink{
+    font-size: 20px;
 }
