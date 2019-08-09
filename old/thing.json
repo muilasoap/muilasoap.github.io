@@ -1549,7 +1549,7 @@
       }
     },
     {
-      "testcaseId": "e4e0b31f9e53fb4dbf687ed9ea23157ad508d502",
+      "testcaseId": "e4e0b31f9e53fb4dbf615489ea23157ad508d502",
       "url": "https://act-rules.github.io/testcases/73f2c2/e4e0b31f9e53fb4dbf687ed9ea23157ad508d502.html",
       "relativePath": "testcases/73f2c2/e4e0b31f9e53fb4dbf687ed9ea23157ad508d502.html",
       "expected": "failed",
@@ -3011,7 +3011,7 @@
       }
     },
     {
-      "testcaseId": "6a74abc191da8abecbbad6fc2d007d50913a2331",
+      "testcaseId": "6a74abc191da8abecbfab6fc2d007d50913a2331",
       "url": "https://act-rules.github.io/testcases/e086e5/6a74abc191da8abecbbad6fc2d007d50913a2331.html",
       "relativePath": "testcases/e086e5/6a74abc191da8abecbbad6fc2d007d50913a2331.html",
       "expected": "failed",
@@ -5512,7 +5512,7 @@
       }
     },
     {
-      "testcaseId": "a18481a2e95e9a0faa7be86bb0ab6cf435bcf49b",
+      "testcaseId": "a1848188495e9a0faa7be86bb0ab6cf435bcf49b",
       "url": "https://act-rules.github.io/testcases/c487ae/a18481a2e95e9a0faa7be86bb0ab6cf435bcf49b.html",
       "relativePath": "testcases/c487ae/a18481a2e95e9a0faa7be86bb0ab6cf435bcf49b.html",
       "expected": "passed",
