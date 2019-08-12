@@ -26,6 +26,16 @@
       "ruleAccessibilityRequirements": null
     },
     {
+      "testcaseId": "iamanotherjnasfijgriejitre75309d6c98f805",
+      "url": "https://act-rules.github.io/testcases/5f99a7/5eb5795bbd267479e08950e2d875309d6c98f805.html",
+      "relativePath": "testcases/5f99a7/5eb5795bbd267479e08950e2d875309d6c98f805.html",
+      "expected": "passed",
+      "ruleId": "5f99a7",
+      "ruleName": "ARIA attribute is valid",
+      "rulePage": "https://act-rules.github.io/rules/5f99a7",
+      "ruleAccessibilityRequirements": null
+    },
+    {
       "testcaseId": "fd830c9ba6e9ca7ab1833a958f1fb6471439ccc7",
       "url": "https://act-rules.github.io/testcases/5f99a7/fd830c9ba6e9ca7ab1833a958f1fb6471439ccc7.html",
       "relativePath": "testcases/5f99a7/fd830c9ba6e9ca7ab1833a958f1fb6471439ccc7.html",
@@ -9456,6 +9466,23 @@
       "relativePath": "testcases/c5a4ea/c5732e46ad68a0aed9935ebb68269b153fc33aa6.html",
       "expected": "inapplicable",
       "ruleId": "c5a4ea",
+      "ruleName": "Video with audio has audio descriptions or transcript",
+      "rulePage": "https://act-rules.github.io/rules/c5a4ea",
+      "ruleAccessibilityRequirements": {
+        "wcag20:1.2.3": {
+          "forConformance": true,
+          "failed": "not satisfied",
+          "passed": "further testing needed",
+          "inapplicable": "further testing needed"
+        }
+      }
+    },
+    {
+      "testcaseId": "c5732e4xx12345ed9935ebb68269b153fc33aa6",
+      "url": "https://act-rules.github.io/testcases/c5a4ea/c5732e46ad68a0aed9935ebb68269b153fc33aa6.html",
+      "relativePath": "testcases/c5a4ea/c5732e46ad68a0aed9935ebb68269b153fc33aa6.html",
+      "expected": "inapplicable",
+      "ruleId": "xx1234",
       "ruleName": "Video with audio has audio descriptions or transcript",
       "rulePage": "https://act-rules.github.io/rules/c5a4ea",
       "ruleAccessibilityRequirements": {
