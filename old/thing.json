@@ -1329,7 +1329,7 @@
     },
     {
       "testcaseId": "f0156a0cde081a2a340265d8e0d169192fafc8e4",
-      "url": "https://act-rules.github.io/testcases/73f2c2/f0156a0cde081a2a340265d8e0d169192fafc8e4.html",
+      "url": "https://act-rules.github.io/testcases//f0156a0cde081a2a340265d8e0d169192fafc8e4.html",
       "relativePath": "testcases/73f2c2/f0156a0cde081a2a340265d8e0d169192fafc8e4.html",
       "expected": "passed",
       "ruleId": "73f2c2",
@@ -1583,7 +1583,7 @@
       }
     },
     {
-      "testcaseId": "151c29fabfa2e44b127a32088b3fcb8695652936",
+      "testcaseId": "151c29fabfa2e44bwhymeboy8b3fcb8695652936",
       "url": "https://act-rules.github.io/testcases/73f2c2/151c29fabfa2e44b127a32088b3fcb8695652936.html",
       "relativePath": "testcases/73f2c2/151c29fabfa2e44b127a32088b3fcb8695652936.html",
       "expected": "failed",
